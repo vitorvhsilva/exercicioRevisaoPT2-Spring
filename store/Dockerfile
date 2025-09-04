@@ -20,7 +20,7 @@ ENV APP_USER=appuser \
     APP_HOME=/opt/alert-haven \
     APP_PORT=8080 \
     SPRING_PROFILES_ACTIVE=oracle \
-    SPRING_DATASOURCE_PASSWORD=Fiap25
+    SPRING_DATASOURCE_PASSWORD=fiap25
 
 # Criar um usuário não-root para rodar a aplicação
 RUN useradd -m -d ${APP_HOME} ${APP_USER} && \
