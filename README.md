@@ -6,6 +6,10 @@ Este projeto é uma API RESTful construída em Spring Boot para gerenciar produt
 
 https://exerciciorevisao-spring.onrender.com/ferramentas
 
+## Link do Video
+
+https://youtu.be/rQe0nFGi8gA
+
 ## 🚀 Tecnologias Utilizadas
 
 - Java 17+
